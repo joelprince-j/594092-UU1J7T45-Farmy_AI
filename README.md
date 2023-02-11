@@ -1,2 +1,2 @@
-# 594092-UU1J7T45-Farmy_AI
-Crop recommendation and statistics about return on investment and fertilizer recommendation 
+#Farmy_AI
+Our Farmy_AI website uses advanced machine learning to accurately predict crop yeild based on the Enviroimental factors.Hope you to join us and improve our Agricultural website efficiency and productivity.... 
