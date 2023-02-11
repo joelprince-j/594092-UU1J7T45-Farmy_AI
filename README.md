@@ -1,2 +1,1 @@
-#Farmy_AI
-Our Farmy_AI website uses advanced machine learning to accurately predict crop yeild based on the Enviroimental factors.Hope you to join us and improve our Agricultural website efficiency and productivity.... 
+<h1> Farmy-AI </h1>
